@@ -2,33 +2,33 @@
   "company": {
     "name": "SCLegal",
     "tagline": "Corporate, Business & Estate Planning Legal Solutions",
-    "description": "SCLegal is an Irvine, California business law firm specializing in business law, corporate law, international business law and estate planning. Founded by Seung (Steve) Choi, the firm brings 25 years of legal experience in the U.S. and internationally, counseling startups, early-stage companies, and venture capital funds investing in high-tech, entertainment, healthcare, biomedical device, digital and social media, advertising, gaming, software, and crypto/blockchain sectors.",
+    "description": "SCLegal is an Irvine, California business law firm specializing in business law, corporate law, international business law and estate planning. Founded by Seung (Steve) Choi, the firm brings 25 years of legal experience in the U.S. and internationally, counseling startups, early-stage companies, and venture capital funds across various industries including high-tech, entertainment, healthcare, and crypto/blockchain.",
     "phone": "(949) 537.6819",
     "email": "sc@sclegalirvine.com",
     "address": "One Park Plaza, Suite 600, Irvine, CA 92614",
     "hours": null
   },
   "branding": {
-    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769106434/auto-site-builder/SCLegal/image_0.png",
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769107596/auto-site-builder/SCLegal/image_0.png",
     "primaryColor": "#1e3a5f",
     "secondaryColor": null
   },
   "hero": {
     "headline": "Business Attorney in Irvine",
-    "subheadline": "The strength of our relationships is what sets us apart. We are committed to providing client-centered solutions.",
+    "subheadline": "Building trust through client-centered solutions. We are committed to providing expert legal counsel in corporate law, venture capital, and estate planning.",
     "cta": {
       "label": "Contact Us",
       "href": "/contact"
     },
     "secondaryCta": null,
     "backgroundImage": "https://res.cloudinary.com/dil14r8je/image/upload/v1769106433/auto-site-builder/SCLegal/image_9.jpg",
-    "imageOpacity": 50
+    "imageOpacity": 70
   },
   "sections": {
     "about": {
-      "headline": "About Us",
-      "content": "Seung (Steve) Choi is the Founder and Principal of SCLegal. Steve brings 25 years of legal experience in the U.S. and internationally to the practice of law. A graduate of the University of Southern California (B.S., Business Administration/Finance), Steve obtained his law degree from Loyola Law School, Los Angeles (J.D.) and LL.M. (with Distinction) from Georgetown University Law Center, Washington D.C. with a concentration in Securities & Financial Regulation. Prior to founding SCLegal, Steve practiced law with leading international law firms including as an associate in the Project Finance practice of London-based international law firm, Linklaters LLP in Hong Kong and as partner with Lee & Ko, a leading corporate law firm in Seoul, South Korea. Steve currently counsels startups, early-stage companies, and venture capital funds investing in the areas of high-tech, entertainment, healthcare, biomedical device, digital and social media, advertising, gaming, software, and crypto/blockchain.",
-      "image": "https://res.cloudinary.com/dil14r8je/image/upload/v1769106432/auto-site-builder/SCLegal/image_7.jpg",
+      "headline": "About SCLegal",
+      "content": "Seung (Steve) Choi is the Founder and Principal of SCLegal, bringing 25 years of legal experience in the U.S. and internationally to the practice of law. A graduate of the University of Southern California (B.S., Business Administration/Finance), Steve obtained his law degree from Loyola Law School, Los Angeles (J.D.) and LL.M. (with Distinction) from Georgetown University Law Center. Prior to founding SCLegal, Steve practiced law with leading international law firms including as an associate in the Project Finance practice of Linklaters LLP in Hong Kong and as partner with Lee & Ko, a leading corporate law firm in Seoul, South Korea. Steve currently counsels startups, early-stage companies, and venture capital funds investing in areas of high-tech, entertainment, healthcare, biomedical device, digital and social media, advertising, gaming, software, and crypto/blockchain.",
+      "image": "https://res.cloudinary.com/dil14r8je/image/upload/v1769106432/auto-site-builder/SCLegal/image_3.jpg",
       "values": [
         {
           "title": "Building Trust",

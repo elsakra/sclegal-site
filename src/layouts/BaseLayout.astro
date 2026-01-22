@@ -35,10 +35,10 @@ const rgb = hexToRgb(primaryColor);
     <meta name="description" content={pageDescription} />
     <title>{pageTitle}</title>
     
-    <!-- Fonts: Playfair Display for headlines, Inter for body -->
+    <!-- Fonts: Cormorant Garamond for premium headlines, Playfair Display as fallback, Inter for body -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet" />
     
     <!-- Favicon - use logo if it's a CDN URL, otherwise fallback to static -->
     {siteData.branding?.logo?.includes('cloudinary') || siteData.branding?.logo?.includes('http') ? (
@@ -82,7 +82,7 @@ const rgb = hexToRgb(primaryColor);
   }
   
   .font-display {
-    font-family: 'Playfair Display', Georgia, serif;
+    font-family: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
   }
   
   .font-body {
@@ -123,14 +123,14 @@ const rgb = hexToRgb(primaryColor);
   
   /* Display headlines - editorial tight tracking */
   .headline-xl {
-    font-family: 'Playfair Display', Georgia, serif;
+    font-family: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
     font-weight: 600;
     letter-spacing: -0.03em;
     line-height: 0.95;
   }
   
   .headline-lg {
-    font-family: 'Playfair Display', Georgia, serif;
+    font-family: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
     font-weight: 600;
     letter-spacing: -0.02em;
     line-height: 1.05;
@@ -145,7 +145,7 @@ const rgb = hexToRgb(primaryColor);
   
   /* Large decorative number for lists */
   .editorial-number {
-    font-family: 'Playfair Display', Georgia, serif;
+    font-family: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
     font-weight: 400;
     color: rgba(var(--brand-rgb), 0.15);
     font-size: 5rem;
